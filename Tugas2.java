@@ -5,11 +5,10 @@ public class Tugas2 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
+        
         int jumlahCabor, jumlahKampus;
         
         String namaAtlet, namaCabor, namaKampus;
-        
 
         System.out.print("Masukkan jumlah politeknik yang mendaftar : ");
         jumlahKampus = sc.nextInt();
